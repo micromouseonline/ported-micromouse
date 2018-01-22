@@ -1,0 +1,10 @@
+<map id="systick" name="systick">
+<area shape="rect" id="node2" href="$navigator_8cpp.html#a1e5ff291240bd8812c0bc324d33be9e7" title="navigatorUpdate" alt="" coords="117,56,237,83"/>
+<area shape="rect" id="node7" href="$ui_8cpp.html#a159cccde9fee27a51a2dabd3bebaead0" title="debouncePin" alt="" coords="127,107,227,133"/>
+<area shape="rect" id="node9" href="$sensors_8cpp.html#a5d29546d6e72ac164ad42ab1136083fa" title="sensorUpdate" alt="" coords="125,157,230,184"/>
+<area shape="rect" id="node3" href="$navigator_8cpp.html#a4cd7ca3957f507ec79e5d9361e1bc61a" title="doAlignment" alt="" coords="285,5,381,32"/>
+<area shape="rect" id="node6" href="$navigator_8cpp.html#a1fd589e315a86bf83b351f61926968f5" title="doFEC" alt="" coords="301,56,365,83"/>
+<area shape="rect" id="node4" href="$navigator_8cpp.html#a683c9f0a6f5c399b9247ec64dd8a5c6f" title="getSteeringError" alt="" coords="429,5,549,32"/>
+<area shape="rect" id="node5" href="$navigator_8cpp.html#ac472036c2cd88c7bf8efdb98fd3ebfa4" title="sideSensorError" alt="" coords="598,5,717,32"/>
+<area shape="rect" id="node8" href="$ui_8cpp.html#a146d72b5db640aa626ddf3ca7e980463" title="read" alt="" coords="309,107,358,133"/>
+</map>

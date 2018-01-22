@@ -1,0 +1,29 @@
+<map id="mouseFollowTo" name="mouseFollowTo">
+<area shape="rect" id="node2" href="$motion_8cpp.html#a57ad0eca5e7c09ec884cd77c7c281534" title="forward" alt="" coords="680,73,747,100"/>
+<area shape="rect" id="node7" href="$motion_8cpp.html#adc5c2ba4b47c6373d09effaa511e7eba" title="startForward" alt="" coords="227,23,325,49"/>
+<area shape="rect" id="node9" href="$motors_8cpp.html#ad0c7f1f554a2ba56e7e0d534903deef9" title="motorsWaitUntil" alt="" coords="447,428,563,455"/>
+<area shape="rect" id="node11" href="$maze_8cpp.html#a5c8e7df4b47433b2200db566cad3149e" title="neighbour" alt="" coords="673,511,754,537"/>
+<area shape="rect" id="node16" href="$mouse_8cpp.html#a5a5c6b447e736133fc15b7e3d05479f9" title="mouseCheckWallSensors" alt="" coords="189,580,363,607"/>
+<area shape="rect" id="node17" href="$mouse_8cpp.html#a09d08f60dc37abbfe1fc8248a8ed7521" title="mouseUpdateMapFromSensors" alt="" coords="171,529,381,556"/>
+<area shape="rect" id="node19" href="$mouse_8cpp.html#a727461c72529d407fbf6a45820d59fef" title="stopAndAdjust" alt="" coords="222,188,330,215"/>
+<area shape="rect" id="node26" href="$motion_8cpp.html#a2e078c59b94a29d48c961fcf9128214a" title="turnIP90L" alt="" coords="465,225,545,252"/>
+<area shape="rect" id="node27" href="$motion_8cpp.html#a8e1a5bd047b468d2b32f5b2d6bccf520" title="turnIP90R" alt="" coords="235,327,317,353"/>
+<area shape="rect" id="node28" href="$motion_8cpp.html#a78dbd373fcd4c4e757bbd88773ea3e8c" title="turnIP180" alt="" coords="236,377,316,404"/>
+<area shape="rect" id="node3" href="$motors_8cpp.html#a689fe92e8fc13c63ec39ba7083fde610" title="motorsSetDirection" alt="" coords="845,73,981,100"/>
+<area shape="rect" id="node4" href="$motion_8cpp.html#aec4465a74ff198419e3802dede4858d6" title="move" alt="" coords="886,193,941,220"/>
+<area shape="rect" id="node5" href="$volatiles_8h.html#a8202f8521065bb35f28709c12c8330fa" title="getVolatile" alt="" coords="1030,295,1114,321"/>
+<area shape="rect" id="node6" href="$volatiles_8h.html#a6e208ed724d1bde9d945f1e543e8fa92" title="setVolatile" alt="" coords="1030,219,1114,245"/>
+<area shape="rect" id="node8" href="$motors_8cpp.html#a0dd8c36200bc5671574e774efc4b50e9" title="motorsResetCounters" alt="" coords="429,23,581,49"/>
+<area shape="rect" id="node10" href="$motors_8cpp.html#a6ac6388872d24a2c62bccb4e97f8ecbe" title="getStepCount" alt="" coords="861,345,965,372"/>
+<area shape="rect" id="node12" href="$maze_8cpp.html#afa56b10476b1a7164bf13d06e8f687bd" title="cellNorth" alt="" coords="876,573,951,600"/>
+<area shape="rect" id="node13" href="$maze_8cpp.html#a9962ea9884e19c34d984e3b3cadd4858" title="cellEast" alt="" coords="879,421,948,448"/>
+<area shape="rect" id="node14" href="$maze_8cpp.html#a02379a9c1b026944f44f50bc073e4419" title="cellSouth" alt="" coords="875,472,952,499"/>
+<area shape="rect" id="node15" href="$maze_8cpp.html#a19bfb607cdac74863b301a6678ca4fc0" title="cellWest" alt="" coords="877,523,949,549"/>
+<area shape="rect" id="node18" href="$maze_8cpp.html#ab5d7d1fcb5d86215039466e1548b34dd" title="mazeSetWall" alt="" coords="455,529,555,556"/>
+<area shape="rect" id="node20" href="$motors_8cpp.html#a93ea50de6e6b3cf248cb02fba0bdd276" title="motorsStopAt" alt="" coords="662,285,765,312"/>
+<area shape="rect" id="node21" href="$navigator_8cpp.html#a93095a6216415ec4166c4baf2f2e97da" title="adjustFrontAngle" alt="" coords="444,175,567,201"/>
+<area shape="rect" id="node25" href="$navigator_8cpp.html#a8631340610f18b1d6269dfdc39b95210" title="adjustFrontDistance" alt="" coords="435,124,575,151"/>
+<area shape="rect" id="node22" href="$sensors_8cpp.html#a7b144551eca2dce85f04a79c8f2af62e" title="sensorGetFrontDistance" alt="" coords="630,124,797,151"/>
+<area shape="rect" id="node23" href="$sensors_8cpp.html#a8b557f031ac784c585d38bfe12c60684" title="sensorGetFrontSteering" alt="" coords="631,175,795,201"/>
+<area shape="rect" id="node24" href="$motion_8cpp.html#af4c1476a7d7013799014255708565ebc" title="spin" alt="" coords="690,225,737,252"/>
+</map>

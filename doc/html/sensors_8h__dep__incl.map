@@ -1,0 +1,9 @@
+<map id="src/sensors.h" name="src/sensors.h">
+<area shape="rect" id="node2" href="$mouse_8cpp.html" title="src/mouse.cpp" alt="" coords="5,80,115,107"/>
+<area shape="rect" id="node3" href="$navigator_8cpp.html" title="src/navigator.cpp" alt="" coords="139,80,263,107"/>
+<area shape="rect" id="node4" href="$ported_8cpp.html" title="src/ported.cpp" alt="" coords="288,80,395,107"/>
+<area shape="rect" id="node5" href="$sensors_8cpp.html" title="src/sensors.cpp" alt="" coords="419,80,535,107"/>
+<area shape="rect" id="node6" href="$systick_8cpp.html" title="src/systick.cpp" alt="" coords="560,80,669,107"/>
+<area shape="rect" id="node7" href="$test_8cpp.html" title="src/test.cpp" alt="" coords="693,80,784,107"/>
+<area shape="rect" id="node8" href="$ui_8cpp.html" title="src/ui.cpp" alt="" coords="809,80,887,107"/>
+</map>

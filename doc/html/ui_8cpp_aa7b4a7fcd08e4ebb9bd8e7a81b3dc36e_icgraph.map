@@ -1,0 +1,7 @@
+<map id="printSouthWalls" name="printSouthWalls">
+<area shape="rect" id="node2" href="$ui_8h.html#af67638d7c7a50a7feacf1c4c830d44ad" title="printMazePlain" alt="" coords="173,5,283,32"/>
+<area shape="rect" id="node5" href="$ui_8h.html#aaf5bf77edfce30af9f42644db0151526" title="printMazeCosts" alt="" coords="171,56,285,83"/>
+<area shape="rect" id="node6" href="$ui_8h.html#a4661c1b06e64bb25b3a35ca2ec7b7057" title="printMazeDirs" alt="" coords="176,107,280,133"/>
+<area shape="rect" id="node3" href="$ui_8h.html#a332a92a6c127cb22c32db6d1c10e589f" title="doCLI" alt="" coords="334,56,391,83"/>
+<area shape="rect" id="node4" href="$ported_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="441,56,487,83"/>
+</map>

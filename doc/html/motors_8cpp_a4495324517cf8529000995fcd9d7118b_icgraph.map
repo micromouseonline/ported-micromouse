@@ -1,0 +1,15 @@
+<map id="motorsDisable" name="motorsDisable">
+<area shape="rect" id="node2" href="$motors_8h.html#a16775dbdcf6f9b0714fdfbdaac209862" title="motorsInit" alt="" coords="209,5,289,32"/>
+<area shape="rect" id="node4" href="$mouse_8h.html#a58980c04000a5369fa1546c9c366ee2e" title="mouseSearchMaze" alt="" coords="181,56,318,83"/>
+<area shape="rect" id="node5" href="$mouse_8h.html#abbf7a2f093ee68810ca71027c6b38d90" title="mouseRunMaze" alt="" coords="190,107,309,133"/>
+<area shape="rect" id="node8" href="$test_8h.html#a275df6b4c144f5d1a3f5faae917d7196" title="testSensorEdge" alt="" coords="191,157,308,184"/>
+<area shape="rect" id="node9" href="$test_8h.html#a9333ac28177b58aa6e106cb8de48e5e3" title="testMove" alt="" coords="211,208,287,235"/>
+<area shape="rect" id="node10" href="$test_8h.html#a97d8f5bad724d79b1ce92ad5df65e597" title="testForward" alt="" coords="203,259,295,285"/>
+<area shape="rect" id="node11" href="$test_8h.html#a9ac5d47c21ffa06962c7d8131dda7ca4" title="testSteering" alt="" coords="203,309,296,336"/>
+<area shape="rect" id="node12" href="$test_8h.html#a3d9ed1c504d27609d41b52fab91278e9" title="testFollower" alt="" coords="203,360,296,387"/>
+<area shape="rect" id="node13" href="$test_8h.html#a50f4f3c43d912cbccbb2e5e79cb6614b" title="testSearcher" alt="" coords="201,411,298,437"/>
+<area shape="rect" id="node14" href="$test_8h.html#ae454d0a55d6ac136d9fa3b5df01fd804" title="testCalibrateFrontSensors" alt="" coords="161,461,338,488"/>
+<area shape="rect" id="node3" href="$ported_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="398,5,453,32"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ae69d2f907d090a7972a5c060980bc381" title="doButton" alt="" coords="387,259,463,285"/>
+<area shape="rect" id="node7" href="$ported_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="513,259,559,285"/>
+</map>

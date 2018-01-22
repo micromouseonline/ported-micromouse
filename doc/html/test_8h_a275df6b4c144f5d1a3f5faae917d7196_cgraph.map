@@ -1,0 +1,9 @@
+<map id="testSensorEdge" name="testSensorEdge">
+<area shape="rect" id="node2" href="$motors_8cpp.html#a6d1cf7fbf03c3856461871ea7e1b1f8f" title="motorsEnable" alt="" coords="172,5,276,32"/>
+<area shape="rect" id="node3" href="$motion_8cpp.html#a57ad0eca5e7c09ec884cd77c7c281534" title="forward" alt="" coords="191,56,257,83"/>
+<area shape="rect" id="node8" href="$motors_8cpp.html#a4495324517cf8529000995fcd9d7118b" title="motorsDisable" alt="" coords="171,107,277,133"/>
+<area shape="rect" id="node4" href="$motors_8cpp.html#a689fe92e8fc13c63ec39ba7083fde610" title="motorsSetDirection" alt="" coords="325,31,461,57"/>
+<area shape="rect" id="node5" href="$motion_8cpp.html#aec4465a74ff198419e3802dede4858d6" title="move" alt="" coords="366,81,421,108"/>
+<area shape="rect" id="node6" href="$volatiles_8h.html#a8202f8521065bb35f28709c12c8330fa" title="getVolatile" alt="" coords="510,56,594,83"/>
+<area shape="rect" id="node7" href="$volatiles_8h.html#a6e208ed724d1bde9d945f1e543e8fa92" title="setVolatile" alt="" coords="510,107,594,133"/>
+</map>

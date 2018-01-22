@@ -1,0 +1,29 @@
+<map id="printMazeCosts" name="printMazeCosts">
+<area shape="rect" id="node2" href="$ui_8cpp.html#aac9b1e36c6274a84e1e4409201393153" title="printNorthWalls" alt="" coords="170,335,283,361"/>
+<area shape="rect" id="node27" href="$maze_8h.html#aacc472f0db70e4134c68a44898eb6ba1" title="hasExit" alt="" coords="742,816,807,843"/>
+<area shape="rect" id="node28" href="$ui_8cpp.html#aa7b4a7fcd08e4ebb9bd8e7a81b3dc36e" title="printSouthWalls" alt="" coords="169,284,285,311"/>
+<area shape="rect" id="node3" href="$maze_8h.html#ad1f3c61a612b23921ae7c8aa21adc4f4" title="hasWall" alt="" coords="333,284,403,311"/>
+<area shape="rect" id="node4" href="$maze_8h.html#afa56b10476b1a7164bf13d06e8f687bd" title="cellNorth" alt="" coords="505,56,580,83"/>
+<area shape="rect" id="node5" href="$maze_8h.html#a9962ea9884e19c34d984e3b3cadd4858" title="cellEast" alt="" coords="508,107,577,133"/>
+<area shape="rect" id="node6" href="$maze_8h.html#a02379a9c1b026944f44f50bc073e4419" title="cellSouth" alt="" coords="504,157,581,184"/>
+<area shape="rect" id="node7" href="$maze_8h.html#a19bfb607cdac74863b301a6678ca4fc0" title="cellWest" alt="" coords="507,208,579,235"/>
+<area shape="rect" id="node8" href="$maze_8h.html#a5c8e7df4b47433b2200db566cad3149e" title="neighbour" alt="" coords="929,259,1010,285"/>
+<area shape="rect" id="node13" href="$maze_8h.html#ae3f9eaa8110191700baf3b22dcf2573e" title="neighbourCost" alt="" coords="915,309,1024,336"/>
+<area shape="rect" id="node14" href="$maze_8h.html#a453f919ea8d3041dfdec6f916355cbed" title="directionToSmallest" alt="" coords="473,360,612,387"/>
+<area shape="rect" id="node16" href="$maze_8h.html#ad7756c1457780a17bd44b24e77181707" title="mazeCopyWallsFromFlash" alt="" coords="451,5,634,32"/>
+<area shape="rect" id="node17" href="$maze_8h.html#ab5d7d1fcb5d86215039466e1548b34dd" title="mazeSetWall" alt="" coords="493,411,593,437"/>
+<area shape="rect" id="node19" href="$maze_8h.html#a252c23db0800970204832fd7a0c16abd" title="mazeInit" alt="" coords="507,487,579,513"/>
+<area shape="rect" id="node23" href="$maze_8h.html#a3d1611f71bb5cc91feb63b4cc69ae5b7" title="mazeFlood" alt="" coords="499,689,587,716"/>
+<area shape="rect" id="node9" href="$maze_8cpp.html#afa56b10476b1a7164bf13d06e8f687bd" title="cellNorth" alt="" coords="1073,360,1148,387"/>
+<area shape="rect" id="node10" href="$maze_8cpp.html#a9962ea9884e19c34d984e3b3cadd4858" title="cellEast" alt="" coords="1076,411,1145,437"/>
+<area shape="rect" id="node11" href="$maze_8cpp.html#a02379a9c1b026944f44f50bc073e4419" title="cellSouth" alt="" coords="1072,259,1149,285"/>
+<area shape="rect" id="node12" href="$maze_8cpp.html#a19bfb607cdac74863b301a6678ca4fc0" title="cellWest" alt="" coords="1075,309,1147,336"/>
+<area shape="rect" id="node15" href="$maze_8cpp.html#ae3f9eaa8110191700baf3b22dcf2573e" title="neighbourCost" alt="" coords="915,360,1024,387"/>
+<area shape="rect" id="node18" href="$maze_8cpp.html#a5c8e7df4b47433b2200db566cad3149e" title="neighbour" alt="" coords="929,411,1010,437"/>
+<area shape="rect" id="node20" href="$maze_8cpp.html#ad7756c1457780a17bd44b24e77181707" title="mazeCopyWallsFromFlash" alt="" coords="683,563,866,589"/>
+<area shape="rect" id="node21" href="$maze_8cpp.html#ab5d7d1fcb5d86215039466e1548b34dd" title="mazeSetWall" alt="" coords="725,461,825,488"/>
+<area shape="rect" id="node22" href="$maze_8cpp.html#a45fdb87d6fcb4e87eb12a54978545829" title="mazeClearWall" alt="" coords="719,512,831,539"/>
+<area shape="rect" id="node24" href="$class_queue.html#a287aac138f71477300c947bcc4e3663b" title="Queue::add" alt="" coords="729,664,821,691"/>
+<area shape="rect" id="node25" href="$class_queue.html#a94f5dcdb54e20807af1b2509d6b234e5" title="Queue::size" alt="" coords="728,715,821,741"/>
+<area shape="rect" id="node26" href="$class_queue.html#a8ee2a27812f9ee09171f84c4d6e80aca" title="Queue::head" alt="" coords="725,765,824,792"/>
+</map>

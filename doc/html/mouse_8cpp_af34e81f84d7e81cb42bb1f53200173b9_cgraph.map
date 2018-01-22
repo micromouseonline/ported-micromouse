@@ -1,0 +1,10 @@
+<map id="mouseTurnToFace" name="mouseTurnToFace">
+<area shape="rect" id="node2" href="$motion_8cpp.html#a8e1a5bd047b468d2b32f5b2d6bccf520" title="turnIP90R" alt="" coords="189,5,272,32"/>
+<area shape="rect" id="node8" href="$motion_8cpp.html#a78dbd373fcd4c4e757bbd88773ea3e8c" title="turnIP180" alt="" coords="191,56,271,83"/>
+<area shape="rect" id="node9" href="$motion_8cpp.html#a2e078c59b94a29d48c961fcf9128214a" title="turnIP90L" alt="" coords="191,107,271,133"/>
+<area shape="rect" id="node3" href="$motion_8cpp.html#af4c1476a7d7013799014255708565ebc" title="spin" alt="" coords="321,56,367,83"/>
+<area shape="rect" id="node4" href="$motors_8cpp.html#a689fe92e8fc13c63ec39ba7083fde610" title="motorsSetDirection" alt="" coords="416,31,552,57"/>
+<area shape="rect" id="node5" href="$motion_8cpp.html#aec4465a74ff198419e3802dede4858d6" title="move" alt="" coords="457,81,511,108"/>
+<area shape="rect" id="node6" href="$volatiles_8h.html#a8202f8521065bb35f28709c12c8330fa" title="getVolatile" alt="" coords="601,56,685,83"/>
+<area shape="rect" id="node7" href="$volatiles_8h.html#a6e208ed724d1bde9d945f1e543e8fa92" title="setVolatile" alt="" coords="601,107,685,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="motorsInit" name="motorsInit">
+<area shape="rect" id="node2" href="$motors_8cpp.html#a689fe92e8fc13c63ec39ba7083fde610" title="motorsSetDirection" alt="" coords="133,5,269,32"/>
+<area shape="rect" id="node3" href="$motors_8cpp.html#acc5eea97dee605576d0b3c72ac540956" title="setMicrostepMode" alt="" coords="136,56,267,83"/>
+<area shape="rect" id="node4" href="$motors_8cpp.html#a4495324517cf8529000995fcd9d7118b" title="motorsDisable" alt="" coords="148,107,255,133"/>
+<area shape="rect" id="node5" href="$motors_8cpp.html#a485ae9d97a323913a0cfcf4847571c57" title="motorsHalt" alt="" coords="158,157,245,184"/>
+</map>

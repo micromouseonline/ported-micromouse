@@ -1,0 +1,6 @@
+<map id="navigatorUpdate" name="navigatorUpdate">
+<area shape="rect" id="node2" href="$navigator_8cpp.html#a4cd7ca3957f507ec79e5d9361e1bc61a" title="doAlignment" alt="" coords="173,5,269,32"/>
+<area shape="rect" id="node5" href="$navigator_8cpp.html#a1fd589e315a86bf83b351f61926968f5" title="doFEC" alt="" coords="189,56,253,83"/>
+<area shape="rect" id="node3" href="$navigator_8cpp.html#a683c9f0a6f5c399b9247ec64dd8a5c6f" title="getSteeringError" alt="" coords="317,5,437,32"/>
+<area shape="rect" id="node4" href="$navigator_8cpp.html#ac472036c2cd88c7bf8efdb98fd3ebfa4" title="sideSensorError" alt="" coords="486,5,605,32"/>
+</map>

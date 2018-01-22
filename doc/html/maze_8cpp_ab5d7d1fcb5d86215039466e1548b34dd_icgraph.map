@@ -1,0 +1,20 @@
+<map id="mazeSetWall" name="mazeSetWall">
+<area shape="rect" id="node2" href="$maze_8h.html#a252c23db0800970204832fd7a0c16abd" title="mazeInit" alt="" coords="224,69,296,96"/>
+<area shape="rect" id="node3" href="$maze_8h.html#ad1f3c61a612b23921ae7c8aa21adc4f4" title="hasWall" alt="" coords="439,145,508,172"/>
+<area shape="rect" id="node12" href="$mouse_8h.html#a09d08f60dc37abbfe1fc8248a8ed7521" title="mouseUpdateMapFromSensors" alt="" coords="155,259,365,285"/>
+<area shape="rect" id="node11" href="$ported_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="446,5,501,32"/>
+<area shape="rect" id="node6" href="$ui_8h.html#a332a92a6c127cb22c32db6d1c10e589f" title="doCLI" alt="" coords="931,157,989,184"/>
+<area shape="rect" id="node4" href="$ui_8cpp.html#aac9b1e36c6274a84e1e4409201393153" title="printNorthWalls" alt="" coords="594,157,707,184"/>
+<area shape="rect" id="node10" href="$ui_8cpp.html#aa7b4a7fcd08e4ebb9bd8e7a81b3dc36e" title="printSouthWalls" alt="" coords="593,107,709,133"/>
+<area shape="rect" id="node9" href="$ui_8h.html#a4661c1b06e64bb25b3a35ca2ec7b7057" title="printMazeDirs" alt="" coords="773,208,877,235"/>
+<area shape="rect" id="node5" href="$ui_8h.html#af67638d7c7a50a7feacf1c4c830d44ad" title="printMazePlain" alt="" coords="770,107,881,133"/>
+<area shape="rect" id="node8" href="$ui_8h.html#aaf5bf77edfce30af9f42644db0151526" title="printMazeCosts" alt="" coords="768,157,883,184"/>
+<area shape="rect" id="node7" href="$ported_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="1038,208,1085,235"/>
+<area shape="rect" id="node13" href="$mouse_8h.html#ac6d0c41f6b0a6810bb2edead0eb3c20a" title="mouseFollowTo" alt="" coords="415,259,531,285"/>
+<area shape="rect" id="node15" href="$mouse_8h.html#adf5b64f43ba84b3e5872c63c568a51dc" title="mouseSearchTo" alt="" coords="413,335,533,361"/>
+<area shape="rect" id="node14" href="$test_8h.html#a3d9ed1c504d27609d41b52fab91278e9" title="testFollower" alt="" coords="604,259,697,285"/>
+<area shape="rect" id="node16" href="$mouse_8h.html#a58980c04000a5369fa1546c9c366ee2e" title="mouseSearchMaze" alt="" coords="582,309,719,336"/>
+<area shape="rect" id="node17" href="$mouse_8h.html#abbf7a2f093ee68810ca71027c6b38d90" title="mouseRunMaze" alt="" coords="591,360,710,387"/>
+<area shape="rect" id="node19" href="$test_8h.html#a50f4f3c43d912cbccbb2e5e79cb6614b" title="testSearcher" alt="" coords="602,411,699,437"/>
+<area shape="rect" id="node18" href="$ui_8h.html#ae69d2f907d090a7972a5c060980bc381" title="doButton" alt="" coords="787,360,863,387"/>
+</map>

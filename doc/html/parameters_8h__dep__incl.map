@@ -1,0 +1,11 @@
+<map id="src/parameters.h" name="src/parameters.h">
+<area shape="rect" id="node2" href="$acctable_8cpp.html" title="src/acctable.cpp" alt="" coords="5,80,123,107"/>
+<area shape="rect" id="node3" href="$hardware_8cpp.html" title="src/hardware.cpp" alt="" coords="147,80,271,107"/>
+<area shape="rect" id="node4" href="$motion_8cpp.html" title="src/motion.cpp" alt="" coords="296,80,405,107"/>
+<area shape="rect" id="node5" href="$motors_8cpp.html" title="src/motors.cpp" alt="" coords="429,80,539,107"/>
+<area shape="rect" id="node6" href="$mouse_8cpp.html" title="src/mouse.cpp" alt="" coords="563,80,672,107"/>
+<area shape="rect" id="node7" href="$navigator_8cpp.html" title="src/navigator.cpp" alt="" coords="697,80,820,107"/>
+<area shape="rect" id="node8" href="$sensors_8cpp.html" title="src/sensors.cpp" alt="" coords="845,80,960,107"/>
+<area shape="rect" id="node9" href="$test_8cpp.html" title="src/test.cpp" alt="" coords="985,80,1076,107"/>
+<area shape="rect" id="node10" href="$ui_8cpp.html" title="src/ui.cpp" alt="" coords="1101,80,1179,107"/>
+</map>

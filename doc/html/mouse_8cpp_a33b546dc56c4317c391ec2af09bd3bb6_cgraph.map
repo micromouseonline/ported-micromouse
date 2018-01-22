@@ -1,0 +1,14 @@
+<map id="mouseRunSmoothTurns" name="mouseRunSmoothTurns">
+<area shape="rect" id="node2" href="$mouse_8cpp.html#acb5bd43adf65153553b79d60e74970a6" title="pathExpand" alt="" coords="241,5,335,32"/>
+<area shape="rect" id="node3" href="$ui_8cpp.html#a0e4c4b858d6a67a8ded3fc0fac199f47" title="buttonPressed" alt="" coords="234,56,342,83"/>
+<area shape="rect" id="node4" href="$motion_8cpp.html#a57ad0eca5e7c09ec884cd77c7c281534" title="forward" alt="" coords="415,107,481,133"/>
+<area shape="rect" id="node9" href="$motion_8cpp.html#ac9c13db6497cf9a7e970c7aa18b4afa8" title="turnSS90R" alt="" coords="245,157,331,184"/>
+<area shape="rect" id="node12" href="$motion_8cpp.html#a06607256f4de72ed82e041871e0a9a80" title="turnSS90L" alt="" coords="245,208,331,235"/>
+<area shape="rect" id="node13" href="$mouse_8cpp.html#a5faee3013b7fb232146bb2a6452a8067" title="mouseShowStatus" alt="" coords="221,259,355,285"/>
+<area shape="rect" id="node5" href="$motors_8cpp.html#a689fe92e8fc13c63ec39ba7083fde610" title="motorsSetDirection" alt="" coords="541,132,677,159"/>
+<area shape="rect" id="node6" href="$motion_8cpp.html#aec4465a74ff198419e3802dede4858d6" title="move" alt="" coords="582,81,637,108"/>
+<area shape="rect" id="node7" href="$volatiles_8h.html#a8202f8521065bb35f28709c12c8330fa" title="getVolatile" alt="" coords="726,157,810,184"/>
+<area shape="rect" id="node8" href="$volatiles_8h.html#a6e208ed724d1bde9d945f1e543e8fa92" title="setVolatile" alt="" coords="726,81,810,108"/>
+<area shape="rect" id="node10" href="$motion_8cpp.html#a057628c1cb4b6fbb9007cba70846d7aa" title="turnSmooth" alt="" coords="403,157,493,184"/>
+<area shape="rect" id="node11" href="$motors_8cpp.html#a6ac6388872d24a2c62bccb4e97f8ecbe" title="getStepCount" alt="" coords="557,183,661,209"/>
+</map>

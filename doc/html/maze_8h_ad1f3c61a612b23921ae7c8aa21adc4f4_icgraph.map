@@ -1,0 +1,9 @@
+<map id="hasWall" name="hasWall">
+<area shape="rect" id="node2" href="$ui_8cpp.html#aac9b1e36c6274a84e1e4409201393153" title="printNorthWalls" alt="" coords="125,56,238,83"/>
+<area shape="rect" id="node8" href="$ui_8cpp.html#aa7b4a7fcd08e4ebb9bd8e7a81b3dc36e" title="printSouthWalls" alt="" coords="123,5,239,32"/>
+<area shape="rect" id="node7" href="$ui_8h.html#a4661c1b06e64bb25b3a35ca2ec7b7057" title="printMazeDirs" alt="" coords="293,107,397,133"/>
+<area shape="rect" id="node3" href="$ui_8h.html#af67638d7c7a50a7feacf1c4c830d44ad" title="printMazePlain" alt="" coords="290,56,401,83"/>
+<area shape="rect" id="node6" href="$ui_8h.html#aaf5bf77edfce30af9f42644db0151526" title="printMazeCosts" alt="" coords="288,5,403,32"/>
+<area shape="rect" id="node4" href="$ui_8h.html#a332a92a6c127cb22c32db6d1c10e589f" title="doCLI" alt="" coords="451,56,509,83"/>
+<area shape="rect" id="node5" href="$ported_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="558,56,605,83"/>
+</map>

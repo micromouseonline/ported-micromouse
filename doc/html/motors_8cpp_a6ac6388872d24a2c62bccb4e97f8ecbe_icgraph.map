@@ -1,0 +1,20 @@
+<map id="getStepCount" name="getStepCount">
+<area shape="rect" id="node2" href="$motion_8cpp.html#a057628c1cb4b6fbb9007cba70846d7aa" title="turnSmooth" alt="" coords="201,56,292,83"/>
+<area shape="rect" id="node9" href="$motors_8h.html#af9ca31c7417a061cc4f6c59e195ed2a3" title="motorsWaitUntil" alt="" coords="189,183,305,209"/>
+<area shape="rect" id="node17" href="$motors_8h.html#ab85497e105c4522057c6fcf63af854e9" title="motorsStopAt" alt="" coords="195,233,298,260"/>
+<area shape="rect" id="node19" href="$test_8h.html#ae454d0a55d6ac136d9fa3b5df01fd804" title="testCalibrateFrontSensors" alt="" coords="158,284,335,311"/>
+<area shape="rect" id="node3" href="$motion_8h.html#a06607256f4de72ed82e041871e0a9a80" title="turnSS90L" alt="" coords="396,5,481,32"/>
+<area shape="rect" id="node8" href="$motion_8h.html#ac9c13db6497cf9a7e970c7aa18b4afa8" title="turnSS90R" alt="" coords="395,56,482,83"/>
+<area shape="rect" id="node4" href="$mouse_8h.html#a33b546dc56c4317c391ec2af09bd3bb6" title="mouseRunSmoothTurns" alt="" coords="542,56,709,83"/>
+<area shape="rect" id="node5" href="$mouse_8h.html#abbf7a2f093ee68810ca71027c6b38d90" title="mouseRunMaze" alt="" coords="767,56,886,83"/>
+<area shape="rect" id="node6" href="$ui_8h.html#ae69d2f907d090a7972a5c060980bc381" title="doButton" alt="" coords="945,81,1021,108"/>
+<area shape="rect" id="node7" href="$ported_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="1070,81,1117,108"/>
+<area shape="rect" id="node10" href="$mouse_8h.html#ac6d0c41f6b0a6810bb2edead0eb3c20a" title="mouseFollowTo" alt="" coords="567,259,683,285"/>
+<area shape="rect" id="node12" href="$mouse_8h.html#adf5b64f43ba84b3e5872c63c568a51dc" title="mouseSearchTo" alt="" coords="565,107,685,133"/>
+<area shape="rect" id="node15" href="$test_8h.html#a9333ac28177b58aa6e106cb8de48e5e3" title="testMove" alt="" coords="401,208,477,235"/>
+<area shape="rect" id="node16" href="$test_8h.html#a97d8f5bad724d79b1ce92ad5df65e597" title="testForward" alt="" coords="393,259,485,285"/>
+<area shape="rect" id="node11" href="$test_8h.html#a3d9ed1c504d27609d41b52fab91278e9" title="testFollower" alt="" coords="780,259,873,285"/>
+<area shape="rect" id="node13" href="$mouse_8h.html#a58980c04000a5369fa1546c9c366ee2e" title="mouseSearchMaze" alt="" coords="758,157,895,184"/>
+<area shape="rect" id="node14" href="$test_8h.html#a50f4f3c43d912cbccbb2e5e79cb6614b" title="testSearcher" alt="" coords="778,107,875,133"/>
+<area shape="rect" id="node18" href="$mouse_8cpp.html#a727461c72529d407fbf6a45820d59fef" title="stopAndAdjust" alt="" coords="385,309,493,336"/>
+</map>

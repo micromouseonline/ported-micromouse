@@ -1,0 +1,11 @@
+<map id="mazeInit" name="mazeInit">
+<area shape="rect" id="node2" href="$maze_8h.html#ad1f3c61a612b23921ae7c8aa21adc4f4" title="hasWall" alt="" coords="125,62,195,88"/>
+<area shape="rect" id="node10" href="$ported_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="133,112,187,139"/>
+<area shape="rect" id="node5" href="$ui_8h.html#a332a92a6c127cb22c32db6d1c10e589f" title="doCLI" alt="" coords="571,62,629,88"/>
+<area shape="rect" id="node3" href="$ui_8cpp.html#aac9b1e36c6274a84e1e4409201393153" title="printNorthWalls" alt="" coords="245,87,358,114"/>
+<area shape="rect" id="node9" href="$ui_8cpp.html#aa7b4a7fcd08e4ebb9bd8e7a81b3dc36e" title="printSouthWalls" alt="" coords="243,138,359,164"/>
+<area shape="rect" id="node8" href="$ui_8h.html#a4661c1b06e64bb25b3a35ca2ec7b7057" title="printMazeDirs" alt="" coords="413,36,517,63"/>
+<area shape="rect" id="node4" href="$ui_8h.html#af67638d7c7a50a7feacf1c4c830d44ad" title="printMazePlain" alt="" coords="410,138,521,164"/>
+<area shape="rect" id="node7" href="$ui_8h.html#aaf5bf77edfce30af9f42644db0151526" title="printMazeCosts" alt="" coords="408,87,523,114"/>
+<area shape="rect" id="node6" href="$ported_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="678,62,725,88"/>
+</map>

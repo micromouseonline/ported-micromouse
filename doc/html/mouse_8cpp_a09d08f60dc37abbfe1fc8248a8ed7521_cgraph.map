@@ -1,0 +1,8 @@
+<map id="mouseUpdateMapFromSensors" name="mouseUpdateMapFromSensors">
+<area shape="rect" id="node2" href="$maze_8cpp.html#ab5d7d1fcb5d86215039466e1548b34dd" title="mazeSetWall" alt="" coords="265,81,365,108"/>
+<area shape="rect" id="node3" href="$maze_8cpp.html#a5c8e7df4b47433b2200db566cad3149e" title="neighbour" alt="" coords="414,81,495,108"/>
+<area shape="rect" id="node4" href="$maze_8cpp.html#afa56b10476b1a7164bf13d06e8f687bd" title="cellNorth" alt="" coords="545,5,620,32"/>
+<area shape="rect" id="node5" href="$maze_8cpp.html#a9962ea9884e19c34d984e3b3cadd4858" title="cellEast" alt="" coords="548,56,617,83"/>
+<area shape="rect" id="node6" href="$maze_8cpp.html#a02379a9c1b026944f44f50bc073e4419" title="cellSouth" alt="" coords="544,107,621,133"/>
+<area shape="rect" id="node7" href="$maze_8cpp.html#a19bfb607cdac74863b301a6678ca4fc0" title="cellWest" alt="" coords="547,157,619,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="waitForStart" name="waitForStart">
+<area shape="rect" id="node2" href="$ui_8cpp.html#aaee4462e4b43249e49e52632ccbe0db2" title="breathePin" alt="" coords="158,5,245,32"/>
+<area shape="rect" id="node3" href="$ui_8cpp.html#a0e4c4b858d6a67a8ded3fc0fac199f47" title="buttonPressed" alt="" coords="147,56,255,83"/>
+<area shape="rect" id="node4" href="$ui_8cpp.html#a90ebc087165578beb868c706efbbccdd" title="occludedRight" alt="" coords="148,107,255,133"/>
+<area shape="rect" id="node5" href="$ui_8cpp.html#a8fa27dd748322fd7be82b730ec3cd2a1" title="occludedLeft" alt="" coords="153,157,250,184"/>
+</map>

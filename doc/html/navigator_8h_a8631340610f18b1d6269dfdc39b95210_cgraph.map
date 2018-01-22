@@ -1,0 +1,8 @@
+<map id="adjustFrontDistance" name="adjustFrontDistance">
+<area shape="rect" id="node2" href="$sensors_8cpp.html#a7b144551eca2dce85f04a79c8f2af62e" title="sensorGetFrontDistance" alt="" coords="195,5,362,32"/>
+<area shape="rect" id="node3" href="$motion_8cpp.html#a57ad0eca5e7c09ec884cd77c7c281534" title="forward" alt="" coords="245,56,312,83"/>
+<area shape="rect" id="node4" href="$motors_8cpp.html#a689fe92e8fc13c63ec39ba7083fde610" title="motorsSetDirection" alt="" coords="411,31,547,57"/>
+<area shape="rect" id="node5" href="$motion_8cpp.html#aec4465a74ff198419e3802dede4858d6" title="move" alt="" coords="451,81,506,108"/>
+<area shape="rect" id="node6" href="$volatiles_8h.html#a8202f8521065bb35f28709c12c8330fa" title="getVolatile" alt="" coords="595,56,679,83"/>
+<area shape="rect" id="node7" href="$volatiles_8h.html#a6e208ed724d1bde9d945f1e543e8fa92" title="setVolatile" alt="" coords="595,107,679,133"/>
+</map>

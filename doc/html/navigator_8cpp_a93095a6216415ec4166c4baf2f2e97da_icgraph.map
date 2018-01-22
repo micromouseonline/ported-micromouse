@@ -1,0 +1,11 @@
+<map id="adjustFrontAngle" name="adjustFrontAngle">
+<area shape="rect" id="node2" href="$mouse_8cpp.html#a727461c72529d407fbf6a45820d59fef" title="stopAndAdjust" alt="" coords="177,57,285,84"/>
+<area shape="rect" id="node3" href="$mouse_8h.html#ac6d0c41f6b0a6810bb2edead0eb3c20a" title="mouseFollowTo" alt="" coords="335,19,451,45"/>
+<area shape="rect" id="node5" href="$mouse_8h.html#adf5b64f43ba84b3e5872c63c568a51dc" title="mouseSearchTo" alt="" coords="333,95,453,121"/>
+<area shape="rect" id="node4" href="$test_8h.html#a3d9ed1c504d27609d41b52fab91278e9" title="testFollower" alt="" coords="524,5,617,32"/>
+<area shape="rect" id="node6" href="$mouse_8h.html#a58980c04000a5369fa1546c9c366ee2e" title="mouseSearchMaze" alt="" coords="502,56,639,83"/>
+<area shape="rect" id="node7" href="$mouse_8h.html#abbf7a2f093ee68810ca71027c6b38d90" title="mouseRunMaze" alt="" coords="511,107,630,133"/>
+<area shape="rect" id="node10" href="$test_8h.html#a50f4f3c43d912cbccbb2e5e79cb6614b" title="testSearcher" alt="" coords="522,157,619,184"/>
+<area shape="rect" id="node8" href="$ui_8h.html#ae69d2f907d090a7972a5c060980bc381" title="doButton" alt="" coords="689,132,765,159"/>
+<area shape="rect" id="node9" href="$ported_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="814,132,861,159"/>
+</map>

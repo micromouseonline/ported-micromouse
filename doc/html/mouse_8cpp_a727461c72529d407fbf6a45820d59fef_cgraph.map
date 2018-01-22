@@ -1,0 +1,14 @@
+<map id="stopAndAdjust" name="stopAndAdjust">
+<area shape="rect" id="node2" href="$motors_8cpp.html#a93ea50de6e6b3cf248cb02fba0bdd276" title="motorsStopAt" alt="" coords="385,23,487,50"/>
+<area shape="rect" id="node6" href="$navigator_8cpp.html#a93095a6216415ec4166c4baf2f2e97da" title="adjustFrontAngle" alt="" coords="172,124,295,151"/>
+<area shape="rect" id="node12" href="$navigator_8cpp.html#a8631340610f18b1d6269dfdc39b95210" title="adjustFrontDistance" alt="" coords="163,175,303,202"/>
+<area shape="rect" id="node3" href="$motors_8cpp.html#a6ac6388872d24a2c62bccb4e97f8ecbe" title="getStepCount" alt="" coords="584,23,688,50"/>
+<area shape="rect" id="node4" href="$volatiles_8h.html#a8202f8521065bb35f28709c12c8330fa" title="getVolatile" alt="" coords="753,23,837,50"/>
+<area shape="rect" id="node5" href="$volatiles_8h.html#a6e208ed724d1bde9d945f1e543e8fa92" title="setVolatile" alt="" coords="753,124,837,151"/>
+<area shape="rect" id="node7" href="$sensors_8cpp.html#a7b144551eca2dce85f04a79c8f2af62e" title="sensorGetFrontDistance" alt="" coords="353,175,519,202"/>
+<area shape="rect" id="node8" href="$sensors_8cpp.html#a8b557f031ac784c585d38bfe12c60684" title="sensorGetFrontSteering" alt="" coords="354,124,518,151"/>
+<area shape="rect" id="node9" href="$motion_8cpp.html#af4c1476a7d7013799014255708565ebc" title="spin" alt="" coords="413,74,459,100"/>
+<area shape="rect" id="node10" href="$motors_8cpp.html#a689fe92e8fc13c63ec39ba7083fde610" title="motorsSetDirection" alt="" coords="568,124,704,151"/>
+<area shape="rect" id="node11" href="$motion_8cpp.html#aec4465a74ff198419e3802dede4858d6" title="move" alt="" coords="609,175,663,202"/>
+<area shape="rect" id="node13" href="$motion_8cpp.html#a57ad0eca5e7c09ec884cd77c7c281534" title="forward" alt="" coords="403,226,469,252"/>
+</map>

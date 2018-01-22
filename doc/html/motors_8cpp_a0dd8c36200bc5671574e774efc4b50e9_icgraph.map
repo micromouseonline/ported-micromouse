@@ -1,0 +1,15 @@
+<map id="motorsResetCounters" name="motorsResetCounters">
+<area shape="rect" id="node2" href="$motion_8h.html#adc5c2ba4b47c6373d09effaa511e7eba" title="startForward" alt="" coords="206,132,303,159"/>
+<area shape="rect" id="node13" href="$motion_8h.html#ad72b74ab0dc25b9d465c49acc6e6c2b5" title="startReverse" alt="" coords="206,208,303,235"/>
+<area shape="rect" id="node3" href="$mouse_8h.html#ac6d0c41f6b0a6810bb2edead0eb3c20a" title="mouseFollowTo" alt="" coords="383,5,499,32"/>
+<area shape="rect" id="node5" href="$mouse_8h.html#adf5b64f43ba84b3e5872c63c568a51dc" title="mouseSearchTo" alt="" coords="381,81,501,108"/>
+<area shape="rect" id="node11" href="$test_8h.html#a9333ac28177b58aa6e106cb8de48e5e3" title="testMove" alt="" coords="403,132,479,159"/>
+<area shape="rect" id="node12" href="$test_8h.html#a97d8f5bad724d79b1ce92ad5df65e597" title="testForward" alt="" coords="395,183,487,209"/>
+<area shape="rect" id="node4" href="$test_8h.html#a3d9ed1c504d27609d41b52fab91278e9" title="testFollower" alt="" coords="601,5,695,32"/>
+<area shape="rect" id="node6" href="$mouse_8h.html#a58980c04000a5369fa1546c9c366ee2e" title="mouseSearchMaze" alt="" coords="579,56,717,83"/>
+<area shape="rect" id="node7" href="$mouse_8h.html#abbf7a2f093ee68810ca71027c6b38d90" title="mouseRunMaze" alt="" coords="589,107,707,133"/>
+<area shape="rect" id="node10" href="$test_8h.html#a50f4f3c43d912cbccbb2e5e79cb6614b" title="testSearcher" alt="" coords="599,157,697,184"/>
+<area shape="rect" id="node8" href="$ui_8h.html#ae69d2f907d090a7972a5c060980bc381" title="doButton" alt="" coords="766,132,842,159"/>
+<area shape="rect" id="node9" href="$ported_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="891,132,938,159"/>
+<area shape="rect" id="node14" href="$test_8h.html#ae454d0a55d6ac136d9fa3b5df01fd804" title="testCalibrateFrontSensors" alt="" coords="353,233,530,260"/>
+</map>
