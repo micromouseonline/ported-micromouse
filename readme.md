@@ -15,7 +15,19 @@ In its current state, the mouse firmware compiles to about 20k flash and 1200 by
 
 **BUILDING**
 
-The repository is the complete Eclipse project folder. You should be able to clone the repo and import it directly into a Sloeber-Eclipse workspace and build it. It should also be possible to import the repository directly via git. Another possibility is to clone the repo into your filesystem and then import it as a project without copying the files into the eclipse workspace. That said, Eclipse can be picky and it may be easier to create a new, empty project and then copy the files into that. Whatever works for you.
+The repository is the complete Eclipse project folder. A side effect of having the whole project here is that you get to pick up the .cproject, .project and .settings stuff. I may take them out of the git repo since they cause trouble in Sloeber-eclipse. For some reason, sloeber keeps a record of the full system path of the project inside .settings. This makes it impossible to simply import the project onto your own machine because the path will not exist and the build will fail.
+
+To make this code work with sloeber-eclipse on your system, do the following.
+
+1. Clone this repo to some convenient place in your filesystem. It does not matter where.
+2. Open Sloeber-Eclipse using your preferred workspace. It does not matter where that is.
+2. Choose File | New | Arduino Sketch. Give it some suitable name and alow it to be created in the default location. It could go anywhere else if you prefer. Click Next
+3. Select the Platform Folder and choose your board. the code will only build if you have TIMER3 so that means a Leonardo or similar, or you will have to make careful changes. CLick Next.
+4. In the template dialogue, select "Default cpp file". Click Finish.
+5. You should now see a project in your workspace with just two source files. If your project is called brian, you will see brian.cpp and brian.h. Build the project to make sure all is well and then delete these two files.
+6. In your file system manager, Exploreer, Finder or whatever, find the folder where you cloned the repo. In there is a folder called src. Drag this onto the project name in your Sloeber-eclipse workspace. In the dialogue that appears, select the option "Copy files and folders".
+7. Now build the project again and you should get a success
+
 
 _NOTE_ that the hardware in the MMKIT mouse is an ATMEGA32u4. This has more pins and more RAM than the ATMEGA328 in a standard Arduino Uno so porting to something like an Arduino Mini might be tricky.
 
