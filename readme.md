@@ -30,7 +30,7 @@ To make this code work with sloeber-eclipse on your system, do the following.
 
 *Alternatively - if you want to keep the git links:*
 
-1. Follow steps 1-5 above to get you an empty project. Then right-click the project name and select New | Folder
+1. Follow steps 1-6 above to get you an empty project. Then right-click the project name and select New | Folder
 2. In the dialogue that appears, make sure that ethe project is highlighted and then click the Advanced>> button
 3. Choose Link to Alternate location and browse for the src folder in the cloned repo. Click Finish
 4. Your project should now have the src folder showing. This is actually a link to the src folder in the repo and so will not appear in the workspace filesystem if you look with your file explorer. It will work just fine and edits in eclipse will change the repo.
