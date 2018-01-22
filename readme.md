@@ -13,6 +13,12 @@ Altogether, there are about 3600 line of code split across 30 or so source files
 
 In its current state, the mouse firmware compiles to about 20k flash and 1200 bytes RAM. It could be reduced by removing a bunch of test and user interface code but there seems little point. Note that, if you build a mouse with the more common ATMega328, it has only 2k RAM compared to the 2.5k available on the ATMega32u4.
 
+**BUILDING**
+
+The repository is the complete Eclipse project folder. You should be able to clone the repo and import it directly into a Sloeber-Eclipse workspace and build it. It should also be possible to import the repository directly via git. Another possibility is to clone the repo into your filesystem and then import it as a project without copying the files into the eclipse workspace. That said, Eclipse can be picky and it may be easier to create a new, empty project and then copy the files into that. Whatever works for you.
+
+_NOTE_ that the hardware in the MMKIT mouse is an ATMEGA32u4. This has more pins and more RAM than the ATMEGA328 in a standard Arduino Uno so porting to something like an Arduino Mini might be tricky.
+
 **FEEDBACK**
 
 You can find out a lot about micromouse robots and their development at my web site **[www.micromouseonline.com](www.micromouseonline.com)**. Have a good look there before posing any questions. Chances are you can find the answer somewhere on the site. Over the years, as I worked out how to do stuff, I wrote it up there as a permanent record to help others.  
