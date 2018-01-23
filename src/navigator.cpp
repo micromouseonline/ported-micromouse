@@ -32,8 +32,6 @@
 #include "sensors.h"
 #include "motors.h"
 
-volatile int alignmentCounter; // Make a correction to the travel time and distance barriers
-
 
 volatile STEERING_MODE steeringMode;
 volatile int steeringError;
@@ -232,23 +230,15 @@ void doAlignment() {
   // positive values mean we need to turn right
   steeringError = constrain(getSteeringError(), -STEERING_ERROR_MAX, STEERING_ERROR_MAX);
 
-  if (alignmentCounter > 0) { // there is already a correction taking place
-    alignmentCounter--;
-    return;
-  }
-
   // assume no correction is needed
-  alignmentCounter = 0;
   slowLeftMotor = 0;
   slowRightMotor = 0;
 
   if (steeringError > 0) {
     slowRightMotor = 1;
-    //    alignmentCounter = steeringError;
   }
   if (steeringError < 0) {
     slowLeftMotor = 1;
-    //    alignmentCounter = -steeringError;
   }
 }
 

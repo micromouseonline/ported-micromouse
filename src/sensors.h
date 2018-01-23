@@ -47,8 +47,7 @@ extern int rawR;
 extern int rawL;
 
 
-extern volatile int sensorState; // The optical sensor used in the timer interrupt //割り込み内で使う光センサのタイマー
-
+extern volatile int sensorState;
 
 // sensor wall detection
 extern volatile bool wallSensorRight;
