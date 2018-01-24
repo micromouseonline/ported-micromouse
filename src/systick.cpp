@@ -61,7 +61,8 @@ void systickInit(int frequency) {
  */
 
 void systick() {
-  SREG |= (1 << SREG_I);			 // enable interrupts for the motor driver
+  // enable interrupts for the motor driver
+  sei();
   navigatorUpdate();
   debouncePin(BUTTON);
   sensorUpdate();
